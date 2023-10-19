@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project Sony Email Template</title>
+<style type="text/css">
+	body {
+        margin: 0;
+		background-color: #cccccc;
+	}          
+    .wrapper {
+		width: 100%;
+		table-layout: fixed;
+		background-color: #000000;
+		padding-bottom: 60px;
+		width: 100%;
+		max-width: 600px;
+		border-spacing: 8px;
+		font-family: Clarendon;
+		color: #ffffff;
+    }
+    .two-columns {
+        display: grid;
+        grid-template-columns: 30% 70%;
+        align-items: center;
+    }
+    .two-columns .column {
+		width: 100%;
+		max-width: 300px;
+		display: inline-block;
+		vertical-align: middle;
+        align-items: center;
+	}
+  </style>
+  </head>
+  
+  <body>
+   <center class="wrapper">
+    <table class="main" width="100%">
+
+<!-- TOP HEADER -->
+<tr>
+    <td height="60" style="background-color: #000000"></td>
+</tr>
+    <!--LOGO-->
+    <tr>
+        <td>
+            <table width="100%">
+                <tr>
+                    <td style="text-align: center">
+                        <a href="https://www.sony.com/en/">
+                            <img src="https://i.ibb.co/cXQkyDq/logos.png" alt="" width="250"></a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>       
+<!--IMG#1-->
+<tr>
+    <td>
+        <table width="100%">
+            <tr>
+                <td style="text-align: center">
+                    <a href="#">
+                        <img src="https://i.ibb.co/6PVwv6w/img1-jpg.jpg" alt="" width="570px"></a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--2-column A7III txt & IMG2-->
+    <tr>
+        <td>
+            <table width="100%">
+
+                <tr>
+                    <td class="two-columns">
+
+                        <table class="column">
+                            <tr>
+                                <td style="padding: 0 40px 0;">
+                                    <p style="font-weight: bold; color: #ffffff; font-size: 50px; font-family: Clarendon;">
+                                        A7III</p>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table class="column">
+                            <tr>
+                                <td>
+                                    <img src="https://i.ibb.co/D11NvCM/img4.jpg" alt="" 
+                                    width="400" style="max-width: 400px;">
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+                </tr>
+        
+            </table>
+         </td>
+    </tr>
+<!--IMG3-->
+<tr>
+    <td>
+        <table width="100%">
+            <tr>
+                <td style="text-align: center" style="padding: 0 0 0;">
+                    <a href="#">
+                        <img src="https://i.ibb.co/D4jZsKb/img2.jpg" alt="" width="570px"></a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--BE ALPHA txt-->
+<tr>
+    <td>
+        <table width="100%">
+            <tr>
+                <td style="text-align: center;" style="padding: 0 0 0;">
+                    <p style="font-weight: bold; color: #ffffff; font-size: 50px; font-family: Clarendon;">
+                    BE ALPHA.</p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
